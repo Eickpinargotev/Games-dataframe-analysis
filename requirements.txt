@@ -1,0 +1,8 @@
+conda install pandas==1.5.3
+conda install ipykernel
+conda install matplotlib
+conda install scipy
+conda install plotly==5.19.0
+conda install seaborn
+
+
